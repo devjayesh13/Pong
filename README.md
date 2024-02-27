@@ -7,3 +7,5 @@ I might give it some updates in the future, like I might add particles and bloom
 but its time consuming so I will do it later.
 
 And also I know my code is not optimized and I will also fix that later.
+
+This repository is just to look at my code.
