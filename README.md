@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Pong</h1>
 
-<p id="description">This is a recreation of classic pong from Atari 2600. It was made with the help of raylib game dev library. This game is also playable on browser on <a herf="devjayesh.itch.io/pong>itch.io </a>page</p>
+<p id="description">This is a recreation of classic pong from Atari 2600. It was made with the help of raylib game dev library. This game is also playable on browser on itch.io page</p>
 
 <h2>🚀 Demo</h2>
 
